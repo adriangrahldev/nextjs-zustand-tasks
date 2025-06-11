@@ -12,11 +12,15 @@ Repositorio: [https://github.com/adriangrahldev/nextjs-zustand-tasks](https://gi
 - **Código limpio y comentado**: ideal para aprender y reutilizar.
 - **Componentes desacoplados**: fácil de mantener y extender.
 
-## 📸 Vista previa
+## 📸 Vistas previas
 
-> Puedes agregar aquí una captura de pantalla de la app:
->
-> ![Vista previa de la app](./preview.png)
+### Home (sin sesión iniciada)
+
+![Vista previa Home](./home.png)
+
+### Home (usuario autenticado)
+
+![Vista previa Home Auth](./home_auth.png)
 
 ## 🛠️ Instalación y uso
 
