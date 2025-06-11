@@ -2,6 +2,8 @@
 
 Este proyecto es un ejemplo moderno y minimalista de cómo usar Zustand para la gestión de estado global en una aplicación Next.js, con una interfaz atractiva y profesional gracias a TailwindCSS.
 
+Repositorio: [https://github.com/adriangrahldev/nextjs-zustand-tasks](https://github.com/adriangrahldev/nextjs-zustand-tasks)
+
 ## 🚀 Características principales
 
 - **Zustand** para manejo de estado global, simple y escalable.
@@ -19,8 +21,8 @@ Este proyecto es un ejemplo moderno y minimalista de cómo usar Zustand para la 
 
 1. Clona el repositorio:
    ```bash
-   git clone https://github.com/tu-usuario/tu-repo.git
-   cd tu-repo
+   git clone https://github.com/adriangrahldev/nextjs-zustand-tasks.git
+   cd nextjs-zustand-tasks
    ```
 2. Instala las dependencias:
    ```bash
